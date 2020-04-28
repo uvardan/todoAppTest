@@ -7,7 +7,7 @@ class LoginComponent extends Component {
         super(props)
 
         this.state = {
-            username: 'in28minutes',
+            username: 'utkarsh',
             password: '',
             hasLoginFailed: false,
             showSuccessMessage: false
@@ -19,7 +19,7 @@ class LoginComponent extends Component {
     }
 
     handleChange(event) {
-        //console.log(this.state);
+        console.log(this.state);
         this.setState(
             {
                 [event.target.name]
@@ -86,9 +86,9 @@ class LoginComponent extends Component {
                     {this.state.hasLoginFailed && <div className="alert alert-warning">Invalid Credentials</div>}
                     {this.state.showSuccessMessage && <div>Login Sucessful</div>}
                     {/*<ShowLoginSuccessMessage showSuccessMessage={this.state.showSuccessMessage}/>*/}
-                    User Name: <input type="text" name="username" value={this.state.username} onChange={this.handleChange} />
+                    User Name: <input type="text" id="user" name="username" value={this.state.username} onChange={this.handleChange} />
                     Password: <input type="password" name="password" value={this.state.password} onChange={this.handleChange} />
-                    <button className="btn btn-success" onClick={this.loginClicked}>Login</button>
+                    <button id="login" className="btn btn-success" onClick={this.loginClicked}>Login</button>
                 </div>
             </div>
         )

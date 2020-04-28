@@ -103,15 +103,15 @@ class ListTodosComponent extends Component {
                                             <td>{todo.description}</td>
                                             <td>{moment(todo.targetDate).format('YYYY-MM-DD')}</td>
                                             <td>{todo.done.toString()}</td>
-                                            <td><button className="btn btn-success" onClick={() => this.updateTodoClicked(todo.id)}>Update</button></td>
-                                            <td><button className="btn btn-warning" onClick={() => this.deleteTodoClicked(todo.id)}>Delete</button></td>
+                                            <td><button className="btn btn-success" id="update" onClick={() => this.updateTodoClicked(todo.id)}>Update</button></td>
+                                            <td><button className="btn btn-warning" id="delete" onClick={() => this.deleteTodoClicked(todo.id)}>Delete</button></td>
                                         </tr>
                                 )
                             }
                         </tbody>
                     </table>
                     <div className="row">
-                        <button className="btn btn-success" onClick={this.addTodoClicked}>Add</button>
+                        <button id="add" className="btn btn-success" onClick={this.addTodoClicked}>Add</button>
                     </div>
                 </div>
             </div>

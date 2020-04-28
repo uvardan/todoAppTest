@@ -24,7 +24,7 @@ class TodoComponent extends Component {
         if (this.state.id === -1) {
             return
         }
-
+        console.log("Not returning for add...")
         let username = AuthenticationService.getLoggedInUserName()
 
         TodoDataService.retrieveTodo(username, this.state.id)
@@ -90,19 +90,19 @@ class TodoComponent extends Component {
                         {
                             (props) => (
                                 <Form>
-                                    <ErrorMessage name="description" component="div"
+                                    <ErrorMessage  name="description" component="div"
                                         className="alert alert-warning" />
-                                    <ErrorMessage name="targetDate" component="div"
+                                    <ErrorMessage  name="targetDate" component="div"
                                         className="alert alert-warning" />
                                     <fieldset className="form-group">
                                         <label>Description</label>
-                                        <Field className="form-control" type="text" name="description" />
+                                        <Field className="form-control" id="updateDesc" type="text" name="description" />
                                     </fieldset>
                                     <fieldset className="form-group">
                                         <label>Target Date</label>
-                                        <Field className="form-control" type="date" name="targetDate" />
+                                        <Field className="form-control" id="updateTarget" type="date" name="targetDate" />
                                     </fieldset>
-                                    <button className="btn btn-success" type="submit">Save</button>
+                                    <button id="save" className="btn btn-success" type="submit">Save</button>
                                 </Form>
                             )
                         }
