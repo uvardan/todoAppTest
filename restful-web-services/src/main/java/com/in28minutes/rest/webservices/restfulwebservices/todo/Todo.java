@@ -29,6 +29,15 @@ public class Todo {
 		this.isDone = isDone;
 	}
 
+ 	public Todo(Todo todo) {
+ 		super();
+ 		this.id = todo.id;
+ 		this.username = todo.username;
+ 		this.description = todo.description;
+ 		this.targetDate = todo.targetDate;
+ 		this.isDone = todo.isDone;
+ 	}
+
 	public Long getId() {
 		return id;
 	}
@@ -90,6 +99,15 @@ public class Todo {
 			return false;
 		return true;
 	}
+	
+	@Override
+ 	public String toString() {
 
+ 		return  "ID: " + id.toString() + ",\n" +
+ 				"User: " + username.toString() +  ",\n" +
+ 				"Description: " + description.toString() +  ",\n" +
+ 				"Target: " + targetDate.toString() + ",\n" +
+ 				"ISDONE: " + String.valueOf(isDone);
+ 	} 
 	
 }
