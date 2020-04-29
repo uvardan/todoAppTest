@@ -36,7 +36,7 @@ public class SpringSecurityConfigurationBasicAuthTest {
 
     @Test
     public void loginUser() throws Exception {
-        MvcResult result=this.mockMvc.perform(get("/basicauth").with(httpBasic("utkarsh","dummy")).header("Origin", "http://localhost:4200").contentType(MediaType.APPLICATION_JSON))
+        MvcResult result=this.mockMvc.perform(get("/basicauth").with(httpBasic("utkarsh","dummy")))
                 .andExpect(authenticated())
                 .andReturn();
         System.out.println(result.getResponse().getContentAsString());

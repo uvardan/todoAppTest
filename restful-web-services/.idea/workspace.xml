@@ -2,153 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="91aab93f-4603-467c-b292-5ad3dd60d880" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_197.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_persistence_javax_persistence_api_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_dom4j_dom4j_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_3_7_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_13_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_23_1_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_5_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_1_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_test_5_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_1_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_1_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/restful-web-services.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/basic/auth/AuthenticationBeanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/basic/auth/BasicAuthenticationControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/basic/auth/SpringSecurityConfigurationBasicAuthTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtInMemoryUserDetailsServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtTokenAuthorizationOncePerRequestFilterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtTokenRequestTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtUnAuthorizedResponseAuthenticationEntryPointTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/rest/basic/auth/AuthenticationBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/rest/basic/auth/BasicAuthenticationController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/rest/basic/auth/SpringSecurityConfigurationBasicAuth.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldBean.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/rest/webservices/restfulwebservices/jwt/AuthenticationException.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/rest/webservices/restfulwebservices/jwt/JWTWebSecurityConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtAuthenticationRestController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtInMemoryUserDetailsService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtTokenAuthorizationOncePerRequestFilter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtTokenRequest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtTokenResponse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtTokenUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtUnAuthorizedResponseAuthenticationEntryPoint.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtUserDetails.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/rest/webservices/restfulwebservices/todo/Todo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/rest/webservices/restfulwebservices/todo/TodoHardcodedService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/rest/webservices/restfulwebservices/todo/TodoJpaRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/rest/webservices/restfulwebservices/todo/TodoJpaResource.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/rest/webservices/restfulwebservices/todo/TodoResource.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/in28minutes/rest/basic/auth/AuthenticationBeanTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/in28minutes/rest/basic/auth/SpringSecurityConfigurationBasicAuthTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtInMemoryUserDetailsServiceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/todo-app/src/Constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/todo-app/src/Constants.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/todo-app/src/components/todo/HeaderComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/todo-app/src/components/todo/HeaderComponent.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/todo-app/src/components/todo/ListTodosComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/todo-app/src/components/todo/ListTodosComponent.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/todo-app/src/components/todo/LoginComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/todo-app/src/components/todo/LoginComponent.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/todo-app/src/components/todo/TodoComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/todo-app/src/components/todo/TodoComponent.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontend/todo-app/src/components/todo/WelcomeComponent.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/todo-app/src/components/todo/WelcomeComponent.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/basic/auth/AuthenticationBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/basic/auth/AuthenticationBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/basic/auth/SpringSecurityConfigurationBasicAuth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/basic/auth/SpringSecurityConfigurationBasicAuth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtInMemoryUserDetailsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtInMemoryUserDetailsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtTokenUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtTokenUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtUserDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtUserDetails.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/resource/AuthenticationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/AuthenticationException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/resource/JwtAuthenticationRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtAuthenticationRestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/resource/JwtTokenRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtTokenRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/resource/JwtTokenResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtTokenResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldBeanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/basic/auth/AuthenticationBeanTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/basic/auth/AuthenticationBeanTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/basic/auth/SpringSecurityConfigurationBasicAuthTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/basic/auth/SpringSecurityConfigurationBasicAuthTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/TodoTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/TodoTestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/in28minutes/rest/webservices/restfulwebservices/todo/Todo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/in28minutes/rest/webservices/restfulwebservices/todo/Todo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/restful-web-services.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/in28minutes/rest/basic/auth/AuthenticationBeanTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/in28minutes/rest/basic/auth/AuthenticationBeanTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -167,7 +29,7 @@
     <SUITE FILE_PATH="coverage/restful_web_services$com_in28minutes_rest_basic_auth_in_restful_web_services.ic" NAME="com.in28minutes.rest.basic.auth in restful-web-services Coverage Results" MODIFIED="1587884007182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.in28minutes.rest.basic.auth.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/restful_web_services$All_in_restful_web_services.ic" NAME="All in restful-web-services Coverage Results" MODIFIED="1586672410493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/restful_web_services$All_in_restful_web_services.ic" NAME="All in restful-web-services Coverage Results" MODIFIED="1588128427318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/restful_web_services$com_in28minutes_rest_in_restful_web_services.ic" NAME="com.in28minutes.rest in restful-web-services Coverage Results" MODIFIED="1588113493870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>com.in28minutes.rest.*</FILTER>
     </SUITE>
@@ -176,7 +38,7 @@
     </SUITE>
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="346" />
+    <option name="myElementSize" value="358" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -192,50 +54,35 @@
     <expand />
     <select />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldControllerTest.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="765">
+                    <caret line="51" column="328" lean-forward="true" selection-start-line="51" selection-start-column="118" selection-end-line="51" selection-end-column="328" />
+                    <folding>
+                      <element signature="imports" expanded="true" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/TestController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="664">
-              <caret line="73" column="32" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/in28minutes/rest/basic/auth/BasicAuthenticationControllerTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="26" column="71" selection-start-line="26" selection-start-column="71" selection-end-line="26" selection-end-column="71" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtUserDetails.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="33" column="14" selection-start-line="33" selection-start-column="14" selection-end-line="33" selection-end-column="14" />
-              <folding>
-                <element signature="e#1067#1068#0" expanded="true" />
-                <element signature="e#1086#1087#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtTokenRequestTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            <state relative-caret-position="642">
+              <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -246,8 +93,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldBean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="195">
+              <caret line="20" column="57" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -256,16 +103,95 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/rest/basic/auth/BasicAuthenticationController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/Todo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+              <folding>
+                <element signature="e#867#868#0" expanded="true" />
+                <element signature="e#883#884#0" expanded="true" />
+                <element signature="e#914#915#0" expanded="true" />
+                <element signature="e#933#934#0" expanded="true" />
+                <element signature="e#965#966#0" expanded="true" />
+                <element signature="e#987#988#0" expanded="true" />
+                <element signature="e#1032#1033#0" expanded="true" />
+                <element signature="e#1063#1064#0" expanded="true" />
+                <element signature="e#1098#1099#0" expanded="true" />
+                <element signature="e#1123#1124#0" expanded="true" />
+                <element signature="e#1174#1175#0" expanded="true" />
+                <element signature="e#1211#1212#0" expanded="true" />
+                <element signature="e#1243#1244#0" expanded="true" />
+                <element signature="e#1267#1268#0" expanded="true" />
+                <element signature="e#1314#1315#0" expanded="true" />
+                <element signature="e#1349#1350#0" expanded="true" />
+                <element signature="e#1377#1378#0" expanded="true" />
+                <element signature="e#1397#1398#0" expanded="true" />
+                <element signature="e#1437#1438#0" expanded="true" />
+                <element signature="e#1464#1465#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/TodoTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="490">
+              <caret line="340" column="46" selection-start-line="339" selection-start-column="9" selection-end-line="340" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtUnAuthorizedResponseAuthenticationEntryPointTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="40" column="6" selection-start-line="28" selection-start-column="4" selection-end-line="40" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/in28minutes/rest/basic/auth/AuthenticationBeanTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldBeanTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="73" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/in28minutes/rest/basic/auth/SpringSecurityConfigurationBasicAuthTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+            <state relative-caret-position="235">
+              <caret line="38" column="98" selection-start-line="38" selection-start-column="98" selection-end-line="38" selection-end-column="98" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -273,28 +199,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtAuthenticationRestController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="54" selection-start-line="54" selection-end-line="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtTokenUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="58" />
+            <state relative-caret-position="285">
+              <caret line="24" column="57" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="57" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#496#497#0" expanded="true" />
+                <element signature="e#523#524#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -337,13 +246,18 @@
         <option value="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/basic/auth/TestController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JWTWebSecurityConfig.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtTokenAuthorizationOncePerRequestFilterTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/basic/auth/SpringSecurityConfigurationBasicAuthTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtTokenUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtTokenRequest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/basic/auth/AuthenticationBeanTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/basic/auth/BasicAuthenticationControllerTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/TestController.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtTokenRequestTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/basic/auth/AuthenticationBeanTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldBean.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldBeanTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldCOntrollerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/TodoTestSuite.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/in28minutes/rest/basic/auth/SpringSecurityConfigurationBasicAuthTest.java" />
       </list>
     </option>
   </component>
@@ -432,7 +346,20 @@
               <item name="restful-web-services" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+              <item name="restfulwebservices" type="462c0819:PsiDirectoryNode" />
+              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="restful-web-services" type="b2602c69:ProjectViewProjectNode" />
+              <item name="restful-web-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+              <item name="restfulwebservices" type="462c0819:PsiDirectoryNode" />
+              <item name="todo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="restful-web-services" type="b2602c69:ProjectViewProjectNode" />
@@ -458,7 +385,40 @@
             <path>
               <item name="restful-web-services" type="b2602c69:ProjectViewProjectNode" />
               <item name="restful-web-services" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="restful-web-services" type="b2602c69:ProjectViewProjectNode" />
+              <item name="restful-web-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+              <item name="restfulwebservices" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="restful-web-services" type="b2602c69:ProjectViewProjectNode" />
+              <item name="restful-web-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+              <item name="restfulwebservices" type="462c0819:PsiDirectoryNode" />
+              <item name="helloworld" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="restful-web-services" type="b2602c69:ProjectViewProjectNode" />
+              <item name="restful-web-services" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="rest" type="462c0819:PsiDirectoryNode" />
+              <item name="restfulwebservices" type="462c0819:PsiDirectoryNode" />
+              <item name="jwt" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -473,7 +433,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588113826275" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588128458371" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -501,38 +461,64 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.RestfulWebServicesApplication">
-    <configuration name="JwtTokenRequestTest.t2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.All in restful-web-services">
+    <configuration name="All in restful-web-services" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="restful-web-services" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.in28minutes.rest.webservices.restfulwebservices.jwt.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.in28minutes.rest.webservices.restfulwebservices.jwt" />
-      <option name="MAIN_CLASS_NAME" value="com.in28minutes.rest.webservices.restfulwebservices.jwt.JwtTokenRequestTest" />
-      <option name="METHOD_NAME" value="t2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.in28minutes.rest in restful-web-services" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="restful-web-services" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.in28minutes.rest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.in28minutes.rest" />
+      <option name="PACKAGE_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.in28minutes.rest.basic.auth in restful-web-services" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HelloWorldControllerTest.HelloWorldBean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restful-web-services" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.in28minutes.rest.webservices.restfulwebservices.helloworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.in28minutes.rest.webservices.restfulwebservices.helloworld" />
+      <option name="MAIN_CLASS_NAME" value="com.in28minutes.rest.webservices.restfulwebservices.helloworld.HelloWorldControllerTest" />
+      <option name="METHOD_NAME" value="HelloWorldBean" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldControllerTest.HelloWorldPathVariable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restful-web-services" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.in28minutes.rest.webservices.restfulwebservices.helloworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.in28minutes.rest.webservices.restfulwebservices.helloworld" />
+      <option name="MAIN_CLASS_NAME" value="com.in28minutes.rest.webservices.restfulwebservices.helloworld.HelloWorldControllerTest" />
+      <option name="METHOD_NAME" value="HelloWorldPathVariable" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldControllerTest.accessProtected3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restful-web-services" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.in28minutes.rest.webservices.restfulwebservices.helloworld.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.in28minutes.rest.webservices.restfulwebservices.helloworld" />
+      <option name="MAIN_CLASS_NAME" value="com.in28minutes.rest.webservices.restfulwebservices.helloworld.HelloWorldControllerTest" />
+      <option name="METHOD_NAME" value="accessProtected3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringSecurityConfigurationBasicAuthTest.loginUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="restful-web-services" />
       <extension name="coverage">
         <pattern>
@@ -541,45 +527,20 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.in28minutes.rest.basic.auth" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.in28minutes.rest.webservices.restfulwebservices.jwt in restful-web-services" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="restful-web-services" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.in28minutes.rest.webservices.restfulwebservices.jwt.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.in28minutes.rest.webservices.restfulwebservices.jwt" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RestfulWebServicesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="restful-web-services" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.in28minutes.rest.webservices.restfulwebservices.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.in28minutes.rest.webservices.restfulwebservices.RestfulWebServicesApplication" />
+      <option name="MAIN_CLASS_NAME" value="com.in28minutes.rest.basic.auth.SpringSecurityConfigurationBasicAuthTest" />
+      <option name="METHOD_NAME" value="loginUser" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.RestfulWebServicesApplication" />
-        <item itemvalue="JUnit.com.in28minutes.rest in restful-web-services" />
-        <item itemvalue="JUnit.com.in28minutes.rest.basic.auth in restful-web-services" />
-        <item itemvalue="JUnit.com.in28minutes.rest.webservices.restfulwebservices.jwt in restful-web-services" />
-        <item itemvalue="JUnit.JwtTokenRequestTest.t2" />
+        <item itemvalue="JUnit.All in restful-web-services" />
+        <item itemvalue="JUnit.SpringSecurityConfigurationBasicAuthTest.loginUser" />
+        <item itemvalue="JUnit.HelloWorldControllerTest.HelloWorldPathVariable" />
+        <item itemvalue="JUnit.HelloWorldControllerTest.HelloWorldBean" />
+        <item itemvalue="JUnit.HelloWorldControllerTest.accessProtected3" />
       </list>
     </recent_temporary>
   </component>
@@ -601,45 +562,45 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JwtTokenRequestTest_t2 - 2020.04.26 at 01h 43m 12s.xml">
-      <configuration name="JwtTokenRequestTest.t2" configurationId="JUnit" />
+    <history-entry file="HelloWorldControllerTest_loginUser - 2020.04.28 at 21h 31m 55s.xml">
+      <configuration name="HelloWorldControllerTest.loginUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JwtTokenRequestTest_t2 - 2020.04.26 at 01h 47m 37s.xml">
-      <configuration name="JwtTokenRequestTest.t2" configurationId="JUnit" />
+    <history-entry file="TodoTestSuite_getTodo1 - 2020.04.28 at 21h 33m 22s.xml">
+      <configuration name="TodoTestSuite.getTodo1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="com_in28minutes_rest_webservices_restfulwebservices_jwt_in_restful-web-services - 2020.04.26 at 01h 48m 00s.xml">
-      <configuration name="com.in28minutes.rest.webservices.restfulwebservices.jwt in restful-web-services" configurationId="JUnit" />
+    <history-entry file="HelloWorldControllerTest_loginUser - 2020.04.28 at 21h 35m 04s.xml">
+      <configuration name="HelloWorldControllerTest.loginUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TestController_accessProtected5 - 2020.04.26 at 01h 49m 51s.xml">
-      <configuration name="TestController.accessProtected5" configurationId="JUnit" />
+    <history-entry file="HelloWorldControllerTest_loginUser - 2020.04.28 at 21h 37m 33s.xml">
+      <configuration name="HelloWorldControllerTest.loginUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="com_in28minutes_rest_webservices_restfulwebservices_jwt_in_restful-web-services - 2020.04.26 at 01h 50m 21s.xml">
-      <configuration name="com.in28minutes.rest.webservices.restfulwebservices.jwt in restful-web-services" configurationId="JUnit" />
+    <history-entry file="HelloWorldControllerTest_loginUser - 2020.04.28 at 21h 38m 58s.xml">
+      <configuration name="HelloWorldControllerTest.loginUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JwtTokenRequestTest_t2 - 2020.04.26 at 01h 50m 47s.xml">
-      <configuration name="JwtTokenRequestTest.t2" configurationId="JUnit" />
+    <history-entry file="HelloWorldControllerTest_loginUser - 2020.04.28 at 21h 39m 25s.xml">
+      <configuration name="HelloWorldControllerTest.loginUser" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JwtTokenRequestTest_t2 - 2020.04.26 at 01h 51m 34s.xml">
-      <configuration name="JwtTokenRequestTest.t2" configurationId="JUnit" />
+    <history-entry file="HelloWorldControllerTest_accessProtected3 - 2020.04.28 at 21h 43m 08s.xml">
+      <configuration name="HelloWorldControllerTest.accessProtected3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="com_in28minutes_rest_webservices_restfulwebservices_jwt_in_restful-web-services - 2020.04.26 at 01h 52m 37s.xml">
-      <configuration name="com.in28minutes.rest.webservices.restfulwebservices.jwt in restful-web-services" configurationId="JUnit" />
+    <history-entry file="HelloWorldControllerTest_HelloWorldBean - 2020.04.28 at 21h 44m 20s.xml">
+      <configuration name="HelloWorldControllerTest.HelloWorldBean" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="com_in28minutes_rest_basic_auth_in_restful-web-services - 2020.04.26 at 01h 53m 30s.xml">
-      <configuration name="com.in28minutes.rest.basic.auth in restful-web-services" configurationId="JUnit" />
+    <history-entry file="HelloWorldControllerTest_HelloWorldPathVariable - 2020.04.28 at 21h 45m 26s.xml">
+      <configuration name="HelloWorldControllerTest.HelloWorldPathVariable" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="com_in28minutes_rest_in_restful-web-services - 2020.04.28 at 17h 38m 28s.xml">
-      <configuration name="com.in28minutes.rest in restful-web-services" configurationId="JUnit" />
+    <history-entry file="SpringSecurityConfigurationBasicAuthTest_loginUser - 2020.04.28 at 21h 46m 46s.xml">
+      <configuration name="SpringSecurityConfigurationBasicAuthTest.loginUser" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58778000" />
+    <option name="totallyTimeSpent" value="61336000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <frame x="-1920" y="-53" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.5101172" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.39350373" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -665,14 +626,14 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24973376" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24973376" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.32960597" />
+      <window_info anchor="right" id="Maven" order="3" sideWeight="0.49852508" weight="0.32960597" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" weight="0.32960597" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
-      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32960597" />
+      <window_info anchor="right" id="Coverage" order="10" sideWeight="0.5014749" side_tool="true" weight="0.32960597" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25292864" />
@@ -766,7 +727,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/in28minutes/rest/basic/auth/AuthenticationBeanTest.java</url>
-          <line>30</line>
+          <line>27</line>
           <properties />
           <option name="timeStamp" value="62" />
         </line-breakpoint>
@@ -807,30 +768,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="21" column="74" selection-start-line="21" selection-start-column="74" selection-end-line="21" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/RestfulWebServicesApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.2.RELEASE/spring-core-5.1.2.RELEASE.jar!/org/springframework/core/MethodIntrospector.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-321">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test-autoconfigure/2.1.0.RELEASE/spring-boot-test-autoconfigure-2.1.0.RELEASE.jar!/org/springframework/boot/test/autoconfigure/web/servlet/MockMvcAutoConfiguration.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -1073,36 +1010,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/in28minutes/rest/basic/auth/SpringSecurityConfigurationBasicAuthTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/in28minutes/rest/basic/auth/AuthenticationBeanTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="88" selection-start-line="28" selection-start-column="88" selection-end-line="28" selection-end-column="88" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtUnAuthorizedResponseAuthenticationEntryPointTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="40" column="6" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="40" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtTokenRequest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -1172,41 +1079,131 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/TestController.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="664">
-          <caret line="73" column="32" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldBean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="180">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/rest/basic/auth/BasicAuthenticationController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+        <state relative-caret-position="195">
+          <caret line="20" column="57" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/todo/Todo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
+          <folding>
+            <element signature="e#867#868#0" expanded="true" />
+            <element signature="e#883#884#0" expanded="true" />
+            <element signature="e#914#915#0" expanded="true" />
+            <element signature="e#933#934#0" expanded="true" />
+            <element signature="e#965#966#0" expanded="true" />
+            <element signature="e#987#988#0" expanded="true" />
+            <element signature="e#1032#1033#0" expanded="true" />
+            <element signature="e#1063#1064#0" expanded="true" />
+            <element signature="e#1098#1099#0" expanded="true" />
+            <element signature="e#1123#1124#0" expanded="true" />
+            <element signature="e#1174#1175#0" expanded="true" />
+            <element signature="e#1211#1212#0" expanded="true" />
+            <element signature="e#1243#1244#0" expanded="true" />
+            <element signature="e#1267#1268#0" expanded="true" />
+            <element signature="e#1314#1315#0" expanded="true" />
+            <element signature="e#1349#1350#0" expanded="true" />
+            <element signature="e#1377#1378#0" expanded="true" />
+            <element signature="e#1397#1398#0" expanded="true" />
+            <element signature="e#1437#1438#0" expanded="true" />
+            <element signature="e#1464#1465#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldBeanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="73" selection-start-line="19" selection-start-column="73" selection-end-line="19" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/JwtUnAuthorizedResponseAuthenticationEntryPointTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="40" column="6" selection-start-line="28" selection-start-column="4" selection-end-line="40" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/TodoTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="340" column="46" selection-start-line="339" selection-start-column="9" selection-end-line="340" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="24" column="57" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="57" />
+          <folding>
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/jwt/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="642">
+          <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/in28minutes/rest/basic/auth/AuthenticationBeanTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/in28minutes/rest/webservices/restfulwebservices/helloworld/HelloWorldControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="328" lean-forward="true" selection-start-line="51" selection-start-column="118" selection-end-line="51" selection-end-column="328" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/in28minutes/rest/basic/auth/SpringSecurityConfigurationBasicAuthTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="38" column="98" selection-start-line="38" selection-start-column="98" selection-end-line="38" selection-end-column="98" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
